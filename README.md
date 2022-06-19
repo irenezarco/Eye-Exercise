@@ -16,5 +16,8 @@ Future improvements include:
   - More realistic looking eyes 
   - Movement of the eye brows
 
-## License Information
-No license was used in this project
+## License 
+Distributed under the MIT License.
+
+## Contact 
+@irene56951729
